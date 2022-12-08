@@ -9,3 +9,9 @@ The starting point for this project is the main.py file. And the project can be 
 
 JWT Token authentication is used for authentication and authorization purposes. Password hashing is used to secure the user passwords.
 For PII and IP sensitive data, the hashing algorithm is used secure it permanently. 
+
+Pytest is implemented and it can be checked using the following commands:
+
+#### Add User : pytest .\test\test_add_data.py
+#### Login : pytest .\test\test_login.py
+#### Upload Data : pytest .\test\test_add_data.py
