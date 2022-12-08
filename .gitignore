@@ -1,6 +1,5 @@
 jaguar_env
 instance
-static
 app/__pycache__
 app/test_measurement/__pycache__
 app/user/__pycache__
