@@ -7,5 +7,5 @@ The requirements for this project can be found in the requirements.txt file and 
 The starting point for this project is the main.py file. And the project can be initiated with the following command:
 #### python main.py
 
-JWT Token authentication is used for authentication and authorization purposes and password hashing is used.
-For PII and IP sensitive data, the hashing algorithm is used.
+JWT Token authentication is used for authentication and authorization purposes. Password hashing is used to secure the user passwords.
+For PII and IP sensitive data, the hashing algorithm is used secure it permanently. 
