@@ -12,6 +12,6 @@ For PII and IP sensitive data, the hashing algorithm is used secure it permanent
 
 Pytest is implemented and it can be checked using the following commands:
 
-#### Add User : pytest .\test\test_add_data.py
+#### Add User : pytest .\test\test_add_user.py
 #### Login : pytest .\test\test_login.py
 #### Upload Data : pytest .\test\test_add_data.py
